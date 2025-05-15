@@ -1,0 +1,17 @@
+a {
+            color: red;
+            text-decoration: none;
+        }
+        p {
+            color: blue;
+            font-size: 20px;
+        }
+        #container {
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border: 50px;
+            margin: 20px;
+            border: 5px solid red;
+        }
